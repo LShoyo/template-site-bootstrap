@@ -24,21 +24,21 @@ pra qual slide ele deve ir -->
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="./inc/img/resident 1.jpg" alt="First slide">
+      <img class="d-block w-100" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\resident1.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Título 1</h5>
         <p>Descrição 1</p>
         </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./inc/img/resident2.jpeg" alt="Second slide">
+      <img class="d-block w-100" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\resident2.jpeg" alt="Second slide">
       <div class="carousel-caption d-none d-sm-block">
         <h5>Título 2</h5>
         <p>Descrição 2</p>
         </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./inc/img/resident3 2.jpg" alt="Third slide">
+      <img class="d-block w-100" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\resident3 2.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Título 3</h5>
         <p>Descrição 3</p>
@@ -46,7 +46,7 @@ pra qual slide ele deve ir -->
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="./inc/img/resident4.jpg" alt="Second slide">
+      <img class="d-block w-100" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\resident4.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Título 4</h5>
         <p>Descrição 4</p>
@@ -69,7 +69,7 @@ pra qual slide ele deve ir -->
         <h2 class="col-12 text-center text-info mt-5 mb-3">Categoria X</h2>
         <div class="card-deck">
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto X1</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -79,7 +79,7 @@ pra qual slide ele deve ir -->
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto X2</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -89,7 +89,7 @@ pra qual slide ele deve ir -->
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto X3</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -105,7 +105,7 @@ pra qual slide ele deve ir -->
         <h2 class="col-12 text-center text-info mt-5 mb-3">Categoria Y</h2>
         <div class="card-deck">
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto Y1</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -115,7 +115,7 @@ pra qual slide ele deve ir -->
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto Y2</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -125,7 +125,7 @@ pra qual slide ele deve ir -->
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="./inc/img/jill2.png" alt="Card image cap">
+                <img class="card-img-top" src="C:\xampp\htdocs\template-site-bootstrap\inc\img\jill2.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Produto Y3</h4>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
